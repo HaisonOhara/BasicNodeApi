@@ -1,2 +1,2 @@
 # BasicNodeApi
-Node basic api that show some basic concepts of NodeJs
+Node basic api that shows some basic concepts of NodeJs :)
